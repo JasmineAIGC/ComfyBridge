@@ -1,6 +1,6 @@
 # ComfyBridge
 
-ComfyBridge 是一个基于 ComfyUI 的通用 AIGC API 封装框架，支持图像生成。基于 FastAPI 构建，采用模块化设计，可作为各种 AIGC 服务的标准封装框架。
+ComfyBridge 是一个基于 ComfyUI 的通用 AIGC API 封装框架，支持音频/图像/视频/3D模型生成。基于 FastAPI 构建，采用模块化设计，可作为各种 AIGC 服务的标准封装框架。只要是可以通过 ComfyUI 实现的功能，均可以快速封装为 API。
 
 ## 核心功能
 
