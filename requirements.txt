@@ -1,0 +1,26 @@
+# Web 框架
+fastapi>=0.104.1
+uvicorn>=0.24.0
+
+# HTTP 客户端
+requests>=2.31.0
+websockets>=12.0
+
+# 图像处理
+Pillow>=10.1.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# AI/ML 模型
+insightface>=0.7.3
+onnxruntime>=1.16.0
+glasses-detector>=1.0.0
+
+# 工具
+pydantic>=2.5.2
+python-multipart>=0.0.6
+loguru>=0.7.2
+
+# 系统资源监控
+psutil>=5.9.8
+GPUtil>=1.4.0

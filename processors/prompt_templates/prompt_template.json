@@ -1,0 +1,614 @@
+{
+  "male": {
+    "80": {
+      "character": [
+        "octogenarian Chinese man with masculine features, short white hair, East Asian facial features, deep crow's feet and nasolabial folds, strong jawline, gentle kind eyes, male, short masculine hairstyle, no long hair, white hair only",
+        "elderly Chinese gentleman with masculine appearance, short white hair and white eyebrows, East Asian features, fine age spots and capillaries on cheeks, serene smile, male, short masculine hairstyle, no long hair, white hair only",
+        "very old Chinese man with masculine facial structure, short white hair, East Asian features, slight age-related stoop, loose neck skin, warm and wise expression, male, short masculine hairstyle, no long hair, white hair only",
+        "senior Chinese man with masculine features, short white hair and white moustache or beard, East Asian features, deep forehead lines, soft relaxed eyelids, male, short masculine hairstyle, no long hair, white hair only",
+        "octogenarian Chinese man with short white hair, East Asian facial features, pronounced marionette lines, slightly hollow temples, benevolent demeanor, short masculine hairstyle, no long hair, white hair only",
+        "elderly Chinese man with short white hair, East Asian features, noticeable age spots, calm and dignified look, short masculine hairstyle, no long hair, white hair only",
+        "old Chinese gentleman with short white hair, East Asian facial structure, mild lower eyelid puffiness, soft skin texture, compassionate gaze, short masculine hairstyle, no long hair, white hair only",
+        "aged Chinese man with neatly combed short white hair, East Asian features, thin lips, softened jaw contour, bright yet gentle eyes, short masculine hairstyle, no long hair, white hair only",
+        "elderly Chinese man with short white hair, East Asian facial features, sunspots on forehead and cheeks, delicate wrinkles on nose bridge, peaceful smile, short masculine hairstyle, no long hair, white hair only",
+        "octogenarian Chinese man with short white hair and beard, East Asian features, slightly sagging cheeks, neck bands, composed and kind presence, short masculine hairstyle, no long hair, white hair only"
+      ],
+      "clothing": [
+        "fully dressed in traditional Chinese Tang suit jacket over inner shirt in dark blue or gray, loose-fitting and dignified, complete outfit with long sleeves and long pants, men's clothing, masculine style",
+        "fully clothed in soft cardigan sweater over collared shirt with dress pants, warm and respectable elderly gentleman outfit, complete attire, men's wear",
+        "properly dressed in light vest over soft fabric shirt with comfortable trousers, simple and elegant elderly wear, complete clothing",
+        "fully dressed in traditional Chinese silk jacket over cotton inner shirt with mandarin collar, paired with loose cotton pants, dignified elderly style, complete outfit, walking cane nearby",
+        "properly clothed in soft wool cardigan over button-down shirt with elastic-waist trousers, layered comfortable senior wear, complete attire",
+        "fully dressed in classic elderly gentleman's vest over dress shirt with comfortable slacks, refined layered outfit, complete attire",
+        "properly dressed in light cotton jacket over loose-fitting linen shirt with drawstring pants, breathable layered elderly attire, complete clothing",
+        "fully clothed in comfortable knit sweater over collared shirt with dress pants, warm layered senior style, complete outfit",
+        "properly dressed in traditional Chinese cotton jacket over inner shirt with frog buttons and loose trousers, classic layered elderly gentleman look, complete attire",
+        "fully dressed in soft fleece cardigan over casual shirt with easy-fit pants and comfortable shoes, practical layered senior casual wear, complete outfit"
+      ],
+      "scene": [
+        "Xinjiang Kanas Lake, colorful, blue sky and white clouds, alpine lake and pine forest, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Sayram Lake grassland, colorful, blue sky and white clouds, wildflowers, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Tianshan snow-capped mountains, colorful, blue sky and white clouds, glacier valley, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Karakul Lake and Muztagh Ata, colorful, blue sky and white clouds, mirror reflection, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Taklamakan desert dunes, colorful, blue sky and white clouds, golden sand sea, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Altay autumn larch forest, colorful, blue sky and white clouds, mountain stream, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Yili river valley hills with poplar forest, colorful, blue sky and white clouds, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibet Namtso Lake, colorful, blue sky and white clouds, deep blue alpine lake and snow peaks, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibet Yamdrok Yumtso, colorful, blue sky and white clouds, turquoise lake and winding shoreline, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibetan plateau grassland with prayer flags and distant Himalayas, colorful, blue sky and white clouds, remote, scenic area photo, soft light, waist-up, single subject, correct proportions"
+      ]
+    },
+    "70": {
+      "character": [
+        "septuagenarian Chinese man with short white hair, East Asian facial features, deep crow's feet and nasolabial folds, alert gentle eyes, short masculine hairstyle, no long hair, white hair only",
+        "senior Chinese gentleman with short white hair, East Asian features, mild sagging around jawline, clear age spots, confident and calm look, short masculine hairstyle, no long hair, white hair only",
+        "older Chinese man with short white hair, East Asian facial structure, forehead lines and smile lines, healthy complexion, warm demeanor, short masculine hairstyle, no long hair, white hair only",
+        "70-year-old Chinese man with short white hair, East Asian features, slightly drooping eyelids, defined marionette lines, kind expression, short masculine hairstyle, no long hair, white hair only",
+        "elderly Chinese man with short white hair and trimmed white eyebrows, East Asian facial features, light neck lines, composed courteous presence, short masculine hairstyle, no long hair, white hair only",
+        "senior Chinese man with short white hair, East Asian features, subtle volume loss at temples, soft skin texture, wise approachable gaze, short masculine hairstyle, no long hair, white hair only",
+        "older Chinese gentleman with short white hair, East Asian facial structure, sharper nose-to-mouth folds, gentle smile, dignified posture, short masculine hairstyle, no long hair, white hair only",
+        "Chinese man in his seventies with neat short white hair, East Asian features, minimal facial puffiness, serene friendly look, short masculine hairstyle, no long hair, white hair only",
+        "senior Chinese man with short white hair, East Asian facial features, mild jowls, defined crow's feet, bright yet soft eyes, short masculine hairstyle, no long hair, white hair only",
+        "elder Chinese man with short white hair, East Asian features, fine age spots on cheeks, warm peaceful expression, short masculine hairstyle, no long hair, white hair only"
+      ],
+      "clothing": [
+        "fully dressed in light cardigan over polo shirt with dress pants, neat and age-appropriate layered outfit, complete attire",
+        "properly clothed in comfortable light jacket over collared shirt with slacks, dignified and practical smart casual outfit, complete attire, walking cane nearby",
+        "fully dressed in vest over traditional Chinese-style shirt with modern cut, paired with comfortable trousers, layered elegant wear, complete clothing",
+        "properly dressed in elegant cardigan sweater over collared shirt with dress pants, refined layered senior style, complete outfit",
+        "fully clothed in casual blazer over polo shirt with chinos, sophisticated yet comfortable layered elderly wear, complete attire",
+        "properly dressed in soft cotton vest over button-down shirt with dress trousers, classic layered senior gentleman attire, complete outfit",
+        "fully dressed in comfortable knit pullover over dress shirt with slacks, warm and dignified layered look, complete clothing",
+        "properly clothed in traditional Chinese jacket over inner shirt with modern tailoring and dress pants, cultural layered elderly style, complete attire",
+        "fully dressed in smart casual sweater vest over collared shirt with dress pants, neat layered senior appearance, complete outfit",
+        "properly dressed in lightweight jacket over casual shirt with comfortable trousers, practical layered senior wear, complete clothing"
+      ],
+      "scene": [
+        "Xinjiang Kanas Lake, colorful, blue sky and white clouds, alpine lake and pine forest, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Sayram Lake grassland, colorful, blue sky and white clouds, wildflowers, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Tianshan snow-capped mountains, colorful, blue sky and white clouds, glacier valley, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Karakul Lake and Muztagh Ata, colorful, blue sky and white clouds, mirror reflection, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Taklamakan desert dunes, colorful, blue sky and white clouds, golden sand sea, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Altay autumn larch forest, colorful, blue sky and white clouds, mountain stream, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Yili river valley hills with poplar forest, colorful, blue sky and white clouds, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibet Namtso Lake, colorful, blue sky and white clouds, deep blue alpine lake and snow peaks, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibet Yamdrok Yumtso, colorful, blue sky and white clouds, turquoise lake and winding shoreline, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibetan plateau grassland with prayer flags and distant Himalayas, colorful, blue sky and white clouds, remote, scenic area photo, soft light, waist-up, single subject, correct proportions"
+      ]
+    },
+    "60": {
+      "character": [
+        "Chinese man in his sixties with short salt-and-pepper hair, East Asian facial features, fine crow's feet and smile lines, healthy complexion, confident look, short masculine hairstyle, no long hair",
+        "mature Chinese gentleman with short graying temples, East Asian features, early nasolabial folds, subtle neck lines, energetic and poised, short masculine hairstyle, no long hair",
+        "senior Chinese professional with short mixed gray-black hair, East Asian facial structure, faint marionette lines, natural skin texture, warm expression, short masculine hairstyle, no long hair",
+        "Chinese man in his sixties with short silver streaks, East Asian features, mild under-eye lines, defined yet softened jawline, composed bearing, short masculine hairstyle, no long hair",
+        "sixty-year-old Chinese man with short graying hair, East Asian facial features, fine forehead lines, clear bright eyes, healthy active demeanor, short masculine hairstyle, no long hair",
+        "mature Chinese man with short salt-and-pepper hair, East Asian features, early jowls and slight skin laxity, dignified and approachable, short masculine hairstyle, no long hair",
+        "senior Chinese man with short gray mixed hair, East Asian facial structure, subtle age spots, balanced facial volume, calm friendly look, short masculine hairstyle, no long hair",
+        "Chinese man in his sixties with neatly groomed short gray-black hair, East Asian features, mild crow's feet, natural smile, stable presence, short masculine hairstyle, no long hair",
+        "distinguished Chinese man with short graying hair, East Asian facial features, faint neck bands, even skin tone, confident relaxed expression, short masculine hairstyle, no long hair",
+        "mature Chinese gentleman with short silver streaks, East Asian features, gentle under-eye puffiness, natural texture, wise warm gaze, short masculine hairstyle, no long hair"
+      ],
+      "clothing": [
+        "fully dressed in light vest over button-down shirt with dress pants, professional yet relaxed business casual attire, complete outfit",
+        "properly clothed in smart casual blazer over collared shirt with chinos, sophisticated and age-appropriate layered outfit, complete attire",
+        "fully dressed in comfortable cardigan over quality polo shirt with tailored trousers, elegant layered casual wear, complete clothing",
+        "properly dressed in suit vest over dress shirt with suit pants, polished mature professional layered style, complete outfit",
+        "fully clothed in refined casual blazer over polo shirt with dress pants, sophisticated layered senior look, complete attire",
+        "properly dressed in quality sweater vest over button-down shirt with tailored trousers, distinguished layered gentleman attire, complete outfit",
+        "fully dressed in smart casual sport coat over collared shirt with chinos, elegant mature professional layered wear, complete clothing",
+        "properly clothed in business casual blazer over quality shirt with dress pants, refined and age-appropriate layered style, complete attire, slim laptop bag worn crossbody",
+        "fully dressed in casual elegant blazer over polo shirt with tailored trousers, sophisticated layered senior appearance, complete outfit",
+        "properly dressed in professional casual vest over dress shirt with quality pants, polished mature layered style, complete clothing"
+      ],
+      "scene": [
+        "Xinjiang Kanas Lake, colorful, blue sky and white clouds, alpine lake and pine forest, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Sayram Lake grassland, colorful, blue sky and white clouds, wildflowers, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Tianshan snow-capped mountains, colorful, blue sky and white clouds, glacier valley, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Karakul Lake and Muztagh Ata, colorful, blue sky and white clouds, mirror reflection, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Taklamakan desert dunes, colorful, blue sky and white clouds, golden sand sea, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Altay autumn larch forest, colorful, blue sky and white clouds, mountain stream, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Yili river valley hills with poplar forest, colorful, blue sky and white clouds, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibet Namtso Lake, colorful, blue sky and white clouds, deep blue alpine lake and snow peaks, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibet Yamdrok Yumtso, colorful, blue sky and white clouds, turquoise lake and winding shoreline, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibetan plateau grassland with prayer flags and distant Himalayas, colorful, blue sky and white clouds, remote, scenic area photo, soft light, waist-up, single subject, correct proportions"
+      ]
+    },
+    "50": {
+      "character": [
+        "middle-aged Chinese man with neatly styled short dark hair, East Asian facial features, fine lines around eyes, mature and stable demeanor, short masculine hairstyle, no long hair",
+        "Chinese man in his fifties with distinguished mature appearance, short hair, East Asian features, confident expression, professional look, short masculine hairstyle, no long hair",
+        "mature Chinese professional with well-groomed short hair, East Asian facial structure, wise and capable look, short masculine hairstyle, no long hair",
+        "Chinese man in his fifties with well-groomed short hair, East Asian features, subtle wrinkles, authoritative and experienced bearing, short masculine hairstyle, no long hair",
+        "middle-aged Chinese professional with short dark hair, East Asian facial features, crow's feet, confident and capable expression, short masculine hairstyle, no long hair",
+        "mature Chinese man with neatly kept short hair, East Asian features, fine aging lines, strong and determined demeanor, short masculine hairstyle, no long hair",
+        "Chinese man in his fifties with distinguished mature features, short hair, East Asian facial structure, moderate wrinkles, successful and poised appearance, short masculine hairstyle, no long hair",
+        "middle-aged Chinese gentleman with well-groomed short hair at temples, East Asian features, age lines, wise and approachable look, short masculine hairstyle, no long hair",
+        "professional Chinese man in his fifties with neatly styled short hair, East Asian facial features, subtle aging, energetic and focused expression, short masculine hairstyle, no long hair",
+        "mature Chinese man with neatly trimmed short hair, East Asian features, fine lines, established and confident demeanor, short masculine hairstyle, no long hair"
+      ],
+      "clothing": [
+        "fully dressed in business professional suit vest over dress shirt with suit pants, polished and executive layered attire, complete outfit",
+        "properly clothed in smart business casual blazer over quality shirt with tailored trousers, refined and professional layered outfit, complete attire",
+        "fully dressed in elegant casual blazer over collared shirt with dress pants, sophisticated yet comfortable layered wear, complete clothing",
+        "properly dressed in executive suit jacket over dress shirt with tie and dress shoes, formal professional layered business attire, complete outfit",
+        "fully clothed in business casual vest over button-down shirt with suit pants, polished mature layered style, complete attire",
+        "properly dressed in smart casual blazer over dress shirt with chinos, sophisticated professional layered look, complete outfit",
+        "fully dressed in quality vest over dress shirt with tailored trousers, refined business casual layered attire, complete clothing",
+        "properly clothed in professional sport coat over collared shirt with dress pants, executive casual layered style, complete attire",
+        "fully dressed in business formal suit jacket over dress shirt with tie, authoritative professional layered appearance, complete outfit, slim laptop bag worn crossbody",
+        "properly dressed in elegant casual blazer over quality polo shirt with dress pants, refined mature layered style, complete clothing"
+      ],
+      "scene": [
+        "Xinjiang Kanas Lake, colorful, blue sky and white clouds, alpine lake and pine forest, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Sayram Lake grassland, colorful, blue sky and white clouds, wildflowers, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Tianshan snow-capped mountains, colorful, blue sky and white clouds, glacier valley, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Karakul Lake and Muztagh Ata, colorful, blue sky and white clouds, mirror reflection, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Taklamakan desert dunes, colorful, blue sky and white clouds, golden sand sea, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Altay autumn larch forest, colorful, blue sky and white clouds, mountain stream, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Yili river valley hills with poplar forest, colorful, blue sky and white clouds, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibet Namtso Lake, colorful, blue sky and white clouds, deep blue alpine lake and snow peaks, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibet Yamdrok Yumtso, colorful, blue sky and white clouds, turquoise lake and winding shoreline, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibetan plateau grassland with prayer flags and distant Himalayas, colorful, blue sky and white clouds, remote, scenic area photo, soft light, waist-up, single subject, correct proportions"
+      ]
+    },
+    "40": {
+      "character": [
+        "Chinese man in his forties with thick short dark hair, East Asian facial features, slight crow's feet, confident and energetic expression, short masculine hairstyle, no long hair",
+        "mature Chinese professional with well-groomed short hair, East Asian features, subtle aging signs, determined and focused look, short masculine hairstyle, no long hair",
+        "middle-aged Chinese man with youthful vitality, short healthy dark hair, East Asian facial structure, strong and capable demeanor, short masculine hairstyle, no long hair",
+        "Chinese man in his forties with short dark hair, East Asian features, fine lines, vigorous and ambitious expression, short masculine hairstyle, no long hair",
+        "professional Chinese man with well-maintained short hair, East Asian facial features, early aging signs, confident and dynamic look, short masculine hairstyle, no long hair",
+        "middle-aged Chinese man with mostly short dark hair, East Asian features, slight wrinkles, energetic and successful demeanor, short masculine hairstyle, no long hair",
+        "Chinese man in his forties with thick short hair, East Asian facial structure, subtle lines, determined and focused bearing, short masculine hairstyle, no long hair",
+        "mature Chinese professional with youthful features, short hair, East Asian features, beginning crow's feet, strong and elegant expression, short masculine hairstyle, no long hair",
+        "Chinese man in his forties with short dark hair, East Asian facial features, slight aging signs, confident and driven appearance, short masculine hairstyle, no long hair",
+        "middle-aged Chinese professional with healthy complexion, short hair, East Asian features, minimal aging, energetic and accomplished look, short masculine hairstyle, no long hair"
+      ],
+      "clothing": [
+        "fully dressed in modern business vest over fitted shirt with dress pants, sharp and professional layered attire, complete outfit",
+        "properly clothed in smart casual blazer over collared shirt with chinos, contemporary and polished layered outfit, complete attire, messenger bag worn crossbody",
+        "fully dressed in business casual cardigan over quality polo or button-down with tailored trousers, layered professional wear, complete clothing",
+        "properly dressed in contemporary business suit jacket over dress shirt with slim fit, modern professional layered style, complete outfit",
+        "fully clothed in smart casual blazer over dress shirt with tailored pants, polished urban layered look, complete attire",
+        "properly dressed in business casual vest over fitted button-down with chinos, sharp contemporary layered style, complete outfit",
+        "fully dressed in modern professional sport coat over collared shirt with dress pants, refined business layered look, complete clothing, wearing an ID badge",
+        "properly clothed in casual executive blazer over quality shirt with tailored trousers, sophisticated layered style, complete attire, slim laptop worn crossbody",
+        "fully dressed in contemporary business blazer over casual shirt with dark jeans, smart professional casual layered outfit, complete outfit",
+        "properly dressed in fitted vest over dress shirt with dress pants, modern business layered attire, complete clothing"
+      ],
+      "scene": [
+        "Xinjiang Kanas Lake, colorful, blue sky and white clouds, alpine lake and pine forest, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Sayram Lake grassland, colorful, blue sky and white clouds, wildflowers, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Tianshan snow-capped mountains, colorful, blue sky and white clouds, glacier valley, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Karakul Lake and Muztagh Ata, colorful, blue sky and white clouds, mirror reflection, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Taklamakan desert dunes, colorful, blue sky and white clouds, golden sand sea, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Altay autumn larch forest, colorful, blue sky and white clouds, mountain stream, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Yili river valley hills with poplar forest, colorful, blue sky and white clouds, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibet Namtso Lake, colorful, blue sky and white clouds, deep blue alpine lake and snow peaks, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibet Yamdrok Yumtso, colorful, blue sky and white clouds, turquoise lake and winding shoreline, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibetan plateau grassland with prayer flags and distant Himalayas, colorful, blue sky and white clouds, remote, scenic area photo, soft light, waist-up, single subject, correct proportions"
+      ]
+    },
+    "30": {
+      "character": [
+        "young professional Chinese man with fresh face, short hair, East Asian facial features, clear skin, ambitious and energetic expression, short masculine hairstyle, no long hair",
+        "Chinese man in his thirties with youthful appearance, short hair, East Asian features, bright eyes, confident and dynamic look, short masculine hairstyle, no long hair",
+        "young adult Chinese male with healthy complexion, short hair, East Asian facial structure, sharp features, determined and focused demeanor, short masculine hairstyle, no long hair",
+        "Chinese man in his thirties with clear skin, short well-groomed hair, East Asian features, enthusiastic and driven expression, short masculine hairstyle, no long hair",
+        "young professional Chinese man with fresh appearance, short hair, East Asian facial features, bright complexion, ambitious and capable look, short masculine hairstyle, no long hair",
+        "Chinese man in his thirties with youthful features, short hair, East Asian features, energetic eyes, confident and motivated demeanor, short masculine hairstyle, no long hair",
+        "young adult Chinese male with healthy glow, short hair, East Asian facial structure, sharp jawline, determined and focused bearing, short masculine hairstyle, no long hair",
+        "professional Chinese man in his thirties with clear skin, short hair, East Asian features, vibrant appearance, dynamic and engaged expression, short masculine hairstyle, no long hair",
+        "young Chinese man with fresh face, short hair, East Asian facial features, no visible aging, energetic and ambitious look, short masculine hairstyle, no long hair",
+        "Chinese man in his thirties with youthful vitality, short hair, East Asian features, bright eyes, confident and innovative demeanor, short masculine hairstyle, no long hair"
+      ],
+      "clothing": [
+        "fully dressed in modern business casual vest over slim-fit shirt with dress pants, trendy yet professional layered outfit with proper coverage, complete attire",
+        "properly clothed in smart casual blazer over collared shirt with jeans, contemporary and stylish layered outfit with appropriate coverage, complete attire, messenger bag worn crossbody",
+        "fully dressed in casual professional cardigan over quality t-shirt or polo with chinos, relaxed yet put-together layered wear with proper coverage, complete clothing",
+        "properly dressed in contemporary business vest over fitted shirt with tailored pants, modern professional layered style, complete outfit",
+        "fully clothed in smart casual blazer over polo shirt with dark jeans, trendy young professional layered look with appropriate coverage, complete attire, wearing an ID lanyard",
+        "properly dressed in modern casual light jacket over button-down with chinos, stylish yet professional layered outfit, complete attire",
+        "fully dressed in tech casual zip-up hoodie over quality t-shirt with jeans, contemporary startup layered style with proper coverage, complete clothing, laptop backpack worn on shoulder",
+        "properly clothed in business casual vest over slim-fit shirt with dress pants, sharp young professional layered attire, complete outfit",
+        "fully dressed in casual smart sweater over collared shirt with tailored trousers, modern professional layered style, complete attire, with wireless earbuds case",
+        "properly dressed in contemporary casual blazer over t-shirt with chinos, trendy professional layered look, complete clothing"
+      ],
+      "scene": [
+        "Xinjiang Kanas Lake, colorful, blue sky and white clouds, alpine lake and pine forest, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Sayram Lake grassland, colorful, blue sky and white clouds, wildflowers, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Tianshan snow-capped mountains, colorful, blue sky and white clouds, glacier valley, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Karakul Lake and Muztagh Ata, colorful, blue sky and white clouds, mirror reflection, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Taklamakan desert dunes, colorful, blue sky and white clouds, golden sand sea, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Altay autumn larch forest, colorful, blue sky and white clouds, mountain stream, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Yili river valley hills with poplar forest, colorful, blue sky and white clouds, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibet Namtso Lake, colorful, blue sky and white clouds, deep blue alpine lake and snow peaks, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibet Yamdrok Yumtso, colorful, blue sky and white clouds, turquoise lake and winding shoreline, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibetan plateau grassland with prayer flags and distant Himalayas, colorful, blue sky and white clouds, remote, scenic area photo, soft light, waist-up, single subject, correct proportions"
+      ]
+    },
+    "20": {
+      "character": [
+        "young Chinese man with youthful face, short hair, East Asian facial features, smooth skin, bright and optimistic expression, short masculine hairstyle, no long hair",
+        "college-age Chinese male with fresh appearance, short hair, East Asian features, energetic eyes, enthusiastic and curious look, short masculine hairstyle, no long hair",
+        "young adult Chinese man with clean-cut short hair, East Asian facial structure, healthy glow, confident and hopeful demeanor, short masculine hairstyle, no long hair",
+        "Chinese man in his twenties with smooth clear skin, short hair, East Asian features, no wrinkles, energetic and enthusiastic expression, short masculine hairstyle, no long hair",
+        "young adult Chinese male with fresh face, short hair, East Asian facial features, bright eyes, optimistic and ambitious look, short masculine hairstyle, no long hair",
+        "college-age Chinese man with youthful features, short hair, East Asian features, healthy complexion, curious and engaged demeanor, short masculine hairstyle, no long hair",
+        "young Chinese man with baby-faced appearance, short hair, East Asian facial structure, clear skin, cheerful and confident bearing, short masculine hairstyle, no long hair",
+        "Chinese man in his twenties with smooth skin, short hair, East Asian features, vibrant look, determined and hopeful expression, short masculine hairstyle, no long hair",
+        "young adult Chinese man with fresh appearance, short hair, East Asian facial features, no aging signs, energetic and social demeanor, short masculine hairstyle, no long hair",
+        "college-age Chinese male with youthful glow, short hair, East Asian features, bright smile, enthusiastic and friendly look, short masculine hairstyle, no long hair"
+      ],
+      "clothing": [
+        "fully dressed in casual smart zip-up jacket over t-shirt with jeans, youthful and comfortable layered outfit with proper coverage, complete attire, backpack worn on shoulder",
+        "properly clothed in campus casual hoodie over t-shirt with casual pants, relaxed and age-appropriate layered wear with appropriate coverage, complete attire",
+        "fully dressed in modern casual sweater over collared shirt with chinos, neat and presentable layered attire with proper coverage, complete clothing",
+        "properly dressed in trendy casual light jacket over printed tee with jeans, youthful urban layered style with appropriate coverage, complete outfit",
+        "fully clothed in casual college sweatshirt over t-shirt with track pants, comfortable student layered wear with proper coverage, complete attire, water bottle in side pocket",
+        "properly dressed in modern casual sports jacket over casual shirt with jeans, stylish young adult layered look with appropriate coverage, complete outfit",
+        "fully dressed in campus style light jacket over casual shirt with chinos, relaxed student layered attire with proper coverage, complete clothing, messenger bag worn crossbody",
+        "properly clothed in casual smart sweater over t-shirt with jeans, neat young adult layered style with appropriate coverage, complete attire",
+        "fully dressed in contemporary casual jacket over t-shirt with pants, trendy youth fashion layered outfit with proper coverage, complete attire, wearing casual shoes",
+        "properly dressed in relaxed cardigan over polo shirt with casual pants, presentable young adult layered wear with appropriate coverage, complete clothing"
+      ],
+      "scene": [
+        "Xinjiang Kanas Lake, colorful, blue sky and white clouds, alpine lake and pine forest, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Sayram Lake grassland, colorful, blue sky and white clouds, wildflowers, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Tianshan snow-capped mountains, colorful, blue sky and white clouds, glacier valley, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Karakul Lake and Muztagh Ata, colorful, blue sky and white clouds, mirror reflection, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Taklamakan desert dunes, colorful, blue sky and white clouds, golden sand sea, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Altay autumn larch forest, colorful, blue sky and white clouds, mountain stream, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Yili river valley hills with poplar forest, colorful, blue sky and white clouds, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibet Namtso Lake, colorful, blue sky and white clouds, deep blue alpine lake and snow peaks, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibet Yamdrok Yumtso, colorful, blue sky and white clouds, turquoise lake and winding shoreline, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibetan plateau grassland with prayer flags and distant Himalayas, colorful, blue sky and white clouds, remote, scenic area photo, soft light, waist-up, single subject, correct proportions"
+      ]
+    },
+    "10": {
+      "character": [
+        "young Chinese boy with innocent face, short hair, East Asian facial features, bright curious eyes, cheerful and energetic expression, short masculine hairstyle, no long hair",
+        "elementary school Chinese child with round face, short hair, East Asian features, playful smile, lively and happy demeanor, short masculine hairstyle, no long hair",
+        "pre-teen Chinese boy with youthful features, short hair, East Asian facial structure, sparkling eyes, active and enthusiastic look, short masculine hairstyle, no long hair",
+        "10-year-old Chinese boy with childish features, short hair, East Asian features, rosy cheeks, joyful and curious expression, short masculine hairstyle, no long hair",
+        "elementary school Chinese boy with round innocent face, short hair, East Asian facial features, bright eyes, playful and energetic demeanor, short masculine hairstyle, no long hair",
+        "young Chinese boy with baby-faced features, short hair, East Asian features, cheerful smile, active and happy look, short masculine hairstyle, no long hair",
+        "pre-teen Chinese child with youthful appearance, short hair, East Asian facial structure, sparkling eyes, enthusiastic and lively bearing, short masculine hairstyle, no long hair",
+        "10-year-old Chinese boy with smooth child skin, short hair, East Asian features, innocent expression, curious and friendly demeanor, short masculine hairstyle, no long hair",
+        "young Chinese schoolboy with round face, short hair, East Asian facial features, bright smile, energetic and playful appearance, short masculine hairstyle, no long hair",
+        "elementary age Chinese boy with childish features, short hair, East Asian features, happy eyes, active and cheerful look, short masculine hairstyle, no long hair"
+      ],
+      "clothing": [
+        "fully dressed in casual children's wear with light vest over t-shirt and comfortable pants, playful and practical layered outfit with proper coverage, modest and age-appropriate",
+        "properly clothed in school uniform with light jacket over polo shirt or neat casual layered outfit, age-appropriate and tidy with appropriate coverage, modest and dignified, small backpack worn",
+        "fully dressed in comfortable casual zip-up jacket over polo shirt with shorts or pants, active and modest layered attire with proper coverage, age-appropriate and dignified",
+        "properly dressed in kids' casual light jacket over graphic t-shirt with jeans, fun and age-appropriate layered outfit with appropriate coverage, modest, dignified, appropriate, non-revealing",
+        "fully clothed in elementary school uniform with light vest over polo shirt and shorts, neat student layered attire with proper coverage, modest and age-appropriate",
+        "properly dressed in comfortable children's wear with zip-up jacket over t-shirt and track pants, active kid layered style with appropriate coverage, modest and dignified, water bottle in side pocket",
+        "fully dressed in casual kids' light hoodie over cartoon t-shirt with comfortable pants, playful child layered wear with proper coverage, modest, dignified, appropriate, non-revealing",
+        "properly clothed in sporty children's light jacket over athletic shirt with shorts, active boy layered clothing with appropriate coverage, modest and age-appropriate",
+        "fully dressed in neat casual light vest over button-up shirt with khaki pants, tidy child layered outfit with proper coverage, modest and dignified, small sling bag worn",
+        "properly dressed in comfortable kids' cardigan over t-shirt with jeans, practical child casual layered wear with appropriate coverage, modest, dignified, appropriate, non-revealing"
+      ],
+      "scene": [
+        "Xinjiang Kanas Lake, colorful, blue sky and white clouds, alpine lake and pine forest, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Sayram Lake grassland, colorful, blue sky and white clouds, wildflowers, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Tianshan snow-capped mountains, colorful, blue sky and white clouds, glacier valley, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Karakul Lake and Muztagh Ata, colorful, blue sky and white clouds, mirror reflection, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Taklamakan desert dunes, colorful, blue sky and white clouds, golden sand sea, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Altay autumn larch forest, colorful, blue sky and white clouds, mountain stream, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Yili river valley hills with poplar forest, colorful, blue sky and white clouds, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibet Namtso Lake, colorful, blue sky and white clouds, deep blue alpine lake and snow peaks, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibet Yamdrok Yumtso, colorful, blue sky and white clouds, turquoise lake and winding shoreline, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibetan plateau grassland with prayer flags and distant Himalayas, colorful, blue sky and white clouds, remote, scenic area photo, soft light, waist-up, single subject, correct proportions"
+      ]
+    }
+  },
+  "female": {
+    "80": {
+      "character": [
+        "octogenarian Chinese woman with feminine features, long white hair, East Asian facial features, deep crow's feet and nasolabial folds, delicate jawline, warm kind eyes, female, white hair only, shoulder-length or longer hair or tied-back hair, no short hair, neatly groomed hair, no messy or disheveled hair",
+        "elderly Chinese lady with feminine appearance, long white hair and white eyebrows, East Asian features, age spots on cheeks, serene gentle smile, female, white hair only, shoulder-length or longer hair or tied-back hair, no short hair, neatly groomed hair, no messy or disheveled hair",
+        "very old Chinese woman with feminine facial structure, long white hair, East Asian features, soft drooping eyelids, neck bands, caring and peaceful expression, female, white hair only, shoulder-length or longer hair or tied-back hair, no short hair, neatly groomed hair, no messy or disheveled hair",
+        "senior Chinese woman with feminine features, long white hair, East Asian features, pronounced marionette lines, slightly hollow temples, benevolent demeanor, female, white hair only, shoulder-length or longer hair or tied-back hair, no short hair, neatly groomed hair, no messy or disheveled hair",
+        "octogenarian Chinese woman with long fully white hair, East Asian facial features, delicate capillaries and sunspots, fine lower eyelid puffiness, dignified presence, white hair only, shoulder-length or longer hair or tied-back hair, no short hair, neatly groomed hair, no messy or disheveled hair",
+        "elderly Chinese woman with long white hair, East Asian features, softened jaw contour, bright yet gentle eyes, white hair only, shoulder-length or longer hair or tied-back hair, no short hair, neatly groomed hair, no messy or disheveled hair",
+        "old Chinese lady with long neatly combed white hair, East Asian facial structure, fine lines around mouth and eyes, warm grandmotherly demeanor, white hair only, shoulder-length or longer hair or tied-back hair, no short hair, neatly groomed hair, no messy or disheveled hair",
+        "aged Chinese woman with long white hair, East Asian features, sunspots on forehead and cheeks, thin lips, soft calm smile, white hair only, shoulder-length or longer hair or tied-back hair, no short hair, neatly groomed hair, no messy or disheveled hair",
+        "elderly Chinese lady with long white hair and white eyelashes, East Asian facial features, loose neck skin, compassionate and kind gaze, white hair only, shoulder-length or longer hair or tied-back hair, no short hair, neatly groomed hair, no messy or disheveled hair",
+        "octogenarian Chinese woman with long white hair, East Asian features, slight age-related stoop, softened facial volume, wise and loving expression, white hair only, shoulder-length or longer hair or tied-back hair, no short hair, neatly groomed hair, no messy or disheveled hair"
+      ],
+      "clothing": [
+        "fully dressed in comfortable traditional Chinese qipao or Tang suit jacket over inner blouse in elegant colors, modest and dignified layered outfit with proper coverage, complete attire, women's clothing, feminine style",
+        "properly clothed in soft cardigan over blouse with dress or skirt, warm and respectable elderly lady layered style with appropriate coverage, complete attire, women's wear",
+        "fully dressed in elegant elderly vest over quality blouse with comfortable pants, refined and age-appropriate layered wear with proper coverage, complete clothing",
+        "properly dressed in traditional Chinese silk jacket over inner blouse with mandarin collar and long skirt, dignified elderly lady layered style with appropriate coverage, complete outfit",
+        "fully clothed in soft wool cardigan over floral blouse with elastic-waist skirt, comfortable senior layered wear with proper coverage, complete attire",
+        "properly dressed in classic elderly lady's cardigan over dress, modest and refined grandmother layered style with appropriate coverage, complete outfit",
+        "fully dressed in light shawl over loose-fitting silk blouse with comfortable elastic pants, breathable elderly lady layered attire with proper coverage, complete clothing",
+        "properly clothed in comfortable knit sweater over collared blouse with long skirt, warm senior lady layered style with appropriate coverage, complete attire",
+        "fully dressed in traditional Chinese cotton jacket over inner shirt with elegant pants, classic elderly woman layered look with proper coverage, complete outfit",
+        "properly dressed in soft fleece cardigan over blouse with easy-fit dress and comfortable shoes, practical senior lady layered wear with appropriate coverage, complete clothing"
+      ],
+      "scene": [
+        "Xinjiang Kanas Lake, colorful, blue sky and white clouds, alpine lake and pine forest, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Sayram Lake grassland, colorful, blue sky and white clouds, wildflowers, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Tianshan snow-capped mountains, colorful, blue sky and white clouds, glacier valley, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Karakul Lake and Muztagh Ata, colorful, blue sky and white clouds, mirror reflection, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Taklamakan desert dunes, colorful, blue sky and white clouds, golden sand sea, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Altay autumn larch forest, colorful, blue sky and white clouds, mountain stream, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Yili river valley hills with poplar forest, colorful, blue sky and white clouds, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibet Namtso Lake, colorful, blue sky and white clouds, deep blue alpine lake and snow peaks, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibet Yamdrok Yumtso, colorful, blue sky and white clouds, turquoise lake and winding shoreline, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibetan plateau grassland with prayer flags and distant Himalayas, colorful, blue sky and white clouds, remote, scenic area photo, soft light, waist-up, single subject, correct proportions"
+      ]
+    },
+    "70": {
+      "character": [
+        "septuagenarian Chinese woman with long white hair, East Asian facial features, defined crow's feet and smile lines, bright gentle eyes, white hair only, shoulder-length or longer hair or tied-back hair, no short hair, neatly groomed hair, no messy or disheveled hair",
+        "senior Chinese lady with long white hair, East Asian features, mild sagging at jawline, visible age spots, confident calm look, white hair only, shoulder-length or longer hair or tied-back hair, no short hair, neatly groomed hair, no messy or disheveled hair",
+        "70-year-old Chinese woman with long white hair, East Asian facial structure, slightly drooping eyelids, clear nasolabial folds, kind expression, white hair only, shoulder-length or longer hair or tied-back hair, no short hair, neatly groomed hair, no messy or disheveled hair",
+        "older Chinese woman with long white hair, East Asian features, forehead lines and natural skin texture, warm approachable demeanor, white hair only, shoulder-length or longer hair or tied-back hair, no short hair, neatly groomed hair, no messy or disheveled hair",
+        "elderly Chinese woman with long white hair and trimmed eyebrows, East Asian facial features, fine neck lines, poised and elegant bearing, white hair only, shoulder-length or longer hair or tied-back hair, no short hair, neatly groomed hair, no messy or disheveled hair",
+        "senior Chinese woman with long white hair, East Asian features, subtle volume loss at temples, soft cheeks, wise friendly gaze, white hair only, shoulder-length or longer hair or tied-back hair, no short hair, neatly groomed hair, no messy or disheveled hair",
+        "Chinese woman in her seventies with neat long white hair, East Asian facial structure, minimal facial puffiness, serene smile, white hair only, shoulder-length or longer hair or tied-back hair, no short hair, neatly groomed hair, no messy or disheveled hair",
+        "septuagenarian Chinese woman with long white hair, East Asian features, mild jowls and marionette lines, bright soft eyes, white hair only, shoulder-length or longer hair or tied-back hair, no short hair, neatly groomed hair, no messy or disheveled hair",
+        "senior Chinese woman with long white hair, East Asian facial features, faint under-eye lines, balanced facial volume, calm composed presence, white hair only, shoulder-length or longer hair or tied-back hair, no short hair, neatly groomed hair, no messy or disheveled hair",
+        "older Chinese lady with long white hair, East Asian features, fine age spots on cheeks, peaceful kind expression, white hair only, shoulder-length or longer hair or tied-back hair, no short hair, neatly groomed hair, no messy or disheveled hair"
+      ],
+      "clothing": [
+        "fully dressed in elegant light jacket over casual blouse with skirt, age-appropriate and dignified layered outfit with proper coverage, complete attire",
+        "properly clothed in comfortable smart casual cardigan over blouse with dress pants, refined and practical layered outfit with appropriate coverage, complete attire",
+        "fully dressed in light vest over traditional Chinese-inspired top with modern cut, paired with comfortable trousers or skirt, layered clothing with proper coverage, complete attire",
+        "properly dressed in elegant cardigan sweater over silk blouse with dress skirt, refined senior lady layered style with appropriate coverage, complete outfit",
+        "fully clothed in casual elegant light jacket over dress, sophisticated yet comfortable elderly layered wear with proper coverage, complete attire",
+        "properly dressed in soft cotton vest over blouse with dress pants, classic senior lady layered attire with appropriate coverage, complete outfit",
+        "fully dressed in comfortable knit cardigan over elegant top with skirt, warm and dignified layered look with proper coverage, complete clothing",
+        "properly clothed in traditional Chinese jacket over inner blouse with modern tailoring and dress pants, cultural elderly lady layered style with appropriate coverage, complete attire",
+        "fully dressed in smart casual elegant sweater over collared blouse with dress pants, neat senior layered appearance with proper coverage, complete outfit",
+        "properly dressed in lightweight cardigan over casual blouse with dress and comfortable shoes, practical senior lady layered wear with appropriate coverage, complete clothing"
+      ],
+      "scene": [
+        "Xinjiang Kanas Lake, colorful, blue sky and white clouds, alpine lake and pine forest, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Sayram Lake grassland, colorful, blue sky and white clouds, wildflowers, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Tianshan snow-capped mountains, colorful, blue sky and white clouds, glacier valley, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Karakul Lake and Muztagh Ata, colorful, blue sky and white clouds, mirror reflection, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Taklamakan desert dunes, colorful, blue sky and white clouds, golden sand sea, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Altay autumn larch forest, colorful, blue sky and white clouds, mountain stream, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Yili river valley hills with poplar forest, colorful, blue sky and white clouds, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibet Namtso Lake, colorful, blue sky and white clouds, deep blue alpine lake and snow peaks, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibet Yamdrok Yumtso, colorful, blue sky and white clouds, turquoise lake and winding shoreline, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibetan plateau grassland with prayer flags and distant Himalayas, colorful, blue sky and white clouds, remote, scenic area photo, soft light, waist-up, single subject, correct proportions"
+      ]
+    },
+    "60": {
+      "character": [
+        "Chinese woman in her sixties with long salt-and-pepper hair, East Asian facial features, fine crow's feet and smile lines, healthy complexion, confident look, shoulder-length or longer hair or tied-back hair, no short hair",
+        "mature Chinese lady with long graying hair, East Asian features, early nasolabial folds, subtle neck lines, energetic and graceful, shoulder-length or longer hair or tied-back hair, no short hair",
+        "senior Chinese professional woman with long mixed gray-black hair, East Asian facial structure, faint marionette lines, natural skin texture, warm expression, shoulder-length or longer hair or tied-back hair, no short hair",
+        "Chinese woman in her sixties with long hair and silver streaks, East Asian features, mild under-eye lines, defined yet softened jawline, composed demeanor, shoulder-length or longer hair or tied-back hair, no short hair",
+        "sixty-year-old Chinese woman with long graying hair, East Asian facial features, fine forehead lines, clear bright eyes, active healthy appearance, shoulder-length or longer hair or tied-back hair, no short hair",
+        "mature Chinese woman with long salt-and-pepper hair, East Asian features, early jowls and slight skin laxity, dignified and approachable, shoulder-length or longer hair or tied-back hair, no short hair",
+        "senior Chinese lady with long gray mixed hair, East Asian facial structure, subtle age spots, balanced facial volume, calm friendly look, shoulder-length or longer hair or tied-back hair, no short hair",
+        "Chinese woman in her sixties with long neatly groomed gray-black hair, East Asian features, mild crow's feet, natural smile, stable presence, shoulder-length or longer hair or tied-back hair, no short hair",
+        "distinguished Chinese woman with long graying hair, East Asian facial features, faint neck bands, even skin tone, confident relaxed expression, shoulder-length or longer hair or tied-back hair, no short hair",
+        "mature Chinese lady with long hair and silver streaks, East Asian features, gentle under-eye puffiness, natural texture, wise warm gaze, shoulder-length or longer hair or tied-back hair, no short hair"
+      ],
+      "clothing": [
+        "fully dressed in business casual vest over elegant blouse with dress pants or skirt, professional yet graceful layered outfit with proper coverage, complete attire, leather shoulder bag",
+        "properly clothed in smart casual blazer over collared blouse with tailored trousers, sophisticated and age-appropriate layered outfit with appropriate coverage, complete attire",
+        "fully dressed in comfortable elegant cardigan over quality top with dress pants, refined and practical layered wear with proper coverage, complete clothing",
+        "properly dressed in executive business casual blazer over silk blouse with suit pants or skirt, polished mature professional layered style with appropriate coverage, complete outfit",
+        "fully clothed in refined casual blazer over elegant top with dress pants, sophisticated senior lady layered look with proper coverage, complete attire",
+        "properly dressed in quality cardigan over blouse with tailored trousers or skirt, distinguished lady layered attire with appropriate coverage, complete outfit",
+        "fully dressed in smart casual elegant jacket over blouse with dress pants, refined mature professional layered wear with proper coverage, complete clothing",
+        "properly clothed in business casual light blazer over quality top with dress pants or skirt, elegant and age-appropriate layered style with appropriate coverage, complete attire, slim laptop bag worn crossbody",
+        "fully dressed in casual elegant blazer over silk top with tailored trousers, sophisticated senior layered appearance with proper coverage, complete outfit",
+        "properly dressed in professional casual cardigan over elegant blouse with quality pants or skirt, polished mature layered style with proper coverage, complete clothing, small shoulder bag"
+      ],
+      "scene": [
+        "Xinjiang Kanas Lake, colorful, blue sky and white clouds, alpine lake and pine forest, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Sayram Lake grassland, colorful, blue sky and white clouds, wildflowers, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Tianshan snow-capped mountains, colorful, blue sky and white clouds, glacier valley, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Karakul Lake and Muztagh Ata, colorful, blue sky and white clouds, mirror reflection, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Taklamakan desert dunes, colorful, blue sky and white clouds, golden sand sea, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Altay autumn larch forest, colorful, blue sky and white clouds, mountain stream, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Yili river valley hills with poplar forest, colorful, blue sky and white clouds, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibet Namtso Lake, colorful, blue sky and white clouds, deep blue alpine lake and snow peaks, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibet Yamdrok Yumtso, colorful, blue sky and white clouds, turquoise lake and winding shoreline, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibetan plateau grassland with prayer flags and distant Himalayas, colorful, blue sky and white clouds, remote, scenic area photo, soft light, waist-up, single subject, correct proportions"
+      ]
+    },
+    "50": {
+      "character": [
+        "middle-aged Chinese woman with neatly styled long hair, East Asian facial features, fine lines showing maturity, elegant and stable demeanor, shoulder-length or longer hair or tied-back hair, no short hair",
+        "Chinese woman in her fifties with distinguished mature appearance, long hair, East Asian features, confident expression, professional look, shoulder-length or longer hair or tied-back hair, no short hair",
+        "mature Chinese professional woman with long hair and graceful aging, East Asian facial structure, wise and capable appearance, shoulder-length or longer hair or tied-back hair, no short hair",
+        "Chinese woman in her fifties with well-groomed long hair, East Asian features, subtle wrinkles, authoritative and experienced bearing, shoulder-length or longer hair or tied-back hair, no short hair",
+        "middle-aged Chinese professional woman with elegant long hairstyle, East Asian facial features, fine lines, confident and elegant expression, shoulder-length or longer hair or tied-back hair, no short hair",
+        "mature Chinese woman with neatly kept long hair, East Asian features, age lines showing grace, strong and poised demeanor, shoulder-length or longer hair or tied-back hair, no short hair",
+        "Chinese woman in her fifties with distinguished mature features, long hair, East Asian facial structure, moderate wrinkles, successful and refined appearance, shoulder-length or longer hair or tied-back hair, no short hair",
+        "middle-aged Chinese lady with well-groomed long hair, East Asian features, age-appropriate lines, wise and approachable look, shoulder-length or longer hair or tied-back hair, no short hair",
+        "professional Chinese woman in her fifties with neatly styled long hair, East Asian facial features, subtle aging, energetic and focused expression, shoulder-length or longer hair or tied-back hair, no short hair",
+        "mature Chinese woman with neatly trimmed long hairstyle, East Asian features, fine wrinkles, established and confident demeanor, shoulder-length or longer hair or tied-back hair, no short hair"
+      ],
+      "clothing": [
+        "fully dressed in business professional vest over elegant blouse with suit pants or skirt, polished and executive layered attire with proper coverage, complete outfit, leather shoulder bag",
+        "properly clothed in smart business casual blazer over quality top with tailored trousers, refined and professional layered outfit with appropriate coverage, complete attire",
+        "fully dressed in elegant casual blazer over collared blouse with dress pants, sophisticated yet comfortable layered wear with proper coverage, complete clothing",
+        "properly dressed in executive suit jacket over silk blouse with dress shoes, formal professional layered business attire with appropriate coverage, complete outfit",
+        "fully clothed in business casual vest over elegant button-down with suit pants or skirt, polished mature layered style with proper coverage, complete attire",
+        "properly dressed in smart casual blazer over silk top with tailored trousers, sophisticated professional layered look with appropriate coverage, complete outfit",
+        "fully dressed in quality elegant vest over blouse with tailored pants or skirt, refined business casual layered attire with proper coverage, complete clothing",
+        "properly clothed in professional elegant jacket over blouse with dress pants, executive casual layered style with appropriate coverage, complete attire, slim laptop bag worn crossbody",
+        "fully dressed in business formal suit jacket over elegant blouse, authoritative professional layered appearance with appropriate coverage, complete outfit",
+        "properly dressed in elegant casual blazer over quality top with dress pants or skirt, refined mature layered style with proper coverage, complete clothing"
+      ],
+      "scene": [
+        "Xinjiang Kanas Lake, colorful, blue sky and white clouds, alpine lake and pine forest, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Sayram Lake grassland, colorful, blue sky and white clouds, wildflowers, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Tianshan snow-capped mountains, colorful, blue sky and white clouds, glacier valley, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Karakul Lake and Muztagh Ata, colorful, blue sky and white clouds, mirror reflection, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Taklamakan desert dunes, colorful, blue sky and white clouds, golden sand sea, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Altay autumn larch forest, colorful, blue sky and white clouds, mountain stream, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Yili river valley hills with poplar forest, colorful, blue sky and white clouds, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibet Namtso Lake, colorful, blue sky and white clouds, deep blue alpine lake and snow peaks, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibet Yamdrok Yumtso, colorful, blue sky and white clouds, turquoise lake and winding shoreline, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibetan plateau grassland with prayer flags and distant Himalayas, colorful, blue sky and white clouds, remote, scenic area photo, soft light, waist-up, single subject, correct proportions"
+      ]
+    },
+    "40": {
+      "character": [
+        "Chinese woman in her forties with well-maintained appearance, long hair, East Asian facial features, subtle aging signs, confident and energetic expression, shoulder-length or longer hair or tied-back hair, no short hair",
+        "mature Chinese professional woman with long hair and elegant features, East Asian features, minimal wrinkles, determined and focused look, shoulder-length or longer hair or tied-back hair, no short hair",
+        "middle-aged Chinese woman with long hair and youthful vitality, East Asian facial structure, healthy complexion, strong and capable demeanor, shoulder-length or longer hair or tied-back hair, no short hair",
+        "Chinese woman in her forties with long dark hair, East Asian features, fine lines, vigorous and ambitious expression, shoulder-length or longer hair or tied-back hair, no short hair",
+        "professional Chinese woman with well-groomed long hair, East Asian facial features, early aging signs, confident and dynamic look, shoulder-length or longer hair or tied-back hair, no short hair",
+        "middle-aged Chinese woman with long mostly dark hair, East Asian features, slight wrinkles, energetic and successful demeanor, shoulder-length or longer hair or tied-back hair, no short hair",
+        "Chinese woman in her forties with long thick hair, East Asian facial structure, subtle lines, determined and focused bearing, shoulder-length or longer hair or tied-back hair, no short hair",
+        "mature Chinese professional woman with long hair and youthful features, East Asian features, beginning crow's feet, strong and elegant expression, shoulder-length or longer hair or tied-back hair, no short hair",
+        "Chinese woman in her forties with long dark hair, East Asian facial features, slight aging signs, confident and driven appearance, shoulder-length or longer hair or tied-back hair, no short hair",
+        "middle-aged Chinese professional woman with long hair and healthy complexion, East Asian features, minimal aging, energetic and accomplished look, shoulder-length or longer hair or tied-back hair, no short hair"
+      ],
+      "clothing": [
+        "fully dressed in modern business vest over fitted blouse with dress pants or skirt, sharp and professional layered attire with proper coverage, complete outfit, structured tote worn on shoulder",
+        "properly clothed in smart casual blazer over collared blouse with tailored trousers, contemporary and polished layered outfit with appropriate coverage, complete attire",
+        "fully dressed in business casual cardigan over quality top with elegant pants, refined and comfortable layered wear with proper coverage, complete clothing",
+        "properly dressed in contemporary business vest over fitted blouse with tailored pants or skirt, modern professional layered style with appropriate coverage, complete outfit",
+        "fully clothed in smart casual blazer over silk blouse with tailored pants or skirt, polished urban layered look with proper coverage, complete attire, messenger bag worn crossbody",
+        "properly dressed in business casual vest over fitted elegant top with dress pants, sharp contemporary layered style with appropriate coverage, complete outfit",
+        "fully dressed in modern professional elegant jacket over blouse with dress pants or skirt, refined business layered look with proper coverage, complete clothing",
+        "properly clothed in casual executive blazer over quality blouse with tailored trousers, sophisticated layered style with appropriate coverage, complete attire, slim laptop worn crossbody",
+        "fully dressed in contemporary business blazer over elegant top with pants or skirt, smart professional casual layered outfit with proper coverage, complete attire",
+        "properly dressed in fitted elegant vest over blouse with dress pants or skirt, modern business layered attire with proper coverage, complete clothing"
+      ],
+      "scene": [
+        "Xinjiang Kanas Lake, colorful, blue sky and white clouds, alpine lake and pine forest, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Sayram Lake grassland, colorful, blue sky and white clouds, wildflowers, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Tianshan snow-capped mountains, colorful, blue sky and white clouds, glacier valley, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Karakul Lake and Muztagh Ata, colorful, blue sky and white clouds, mirror reflection, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Taklamakan desert dunes, colorful, blue sky and white clouds, golden sand sea, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Altay autumn larch forest, colorful, blue sky and white clouds, mountain stream, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Yili river valley hills with poplar forest, colorful, blue sky and white clouds, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibet Namtso Lake, colorful, blue sky and white clouds, deep blue alpine lake and snow peaks, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibet Yamdrok Yumtso, colorful, blue sky and white clouds, turquoise lake and winding shoreline, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibetan plateau grassland with prayer flags and distant Himalayas, colorful, blue sky and white clouds, remote, scenic area photo, soft light, waist-up, single subject, correct proportions"
+      ]
+    },
+    "30": {
+      "character": [
+        "young professional Chinese woman with fresh face, long hair, East Asian facial features, clear skin, ambitious and energetic expression, shoulder-length or longer hair or tied-back hair, no short hair",
+        "Chinese woman in her thirties with youthful appearance, long hair, East Asian features, bright eyes, confident and dynamic look, shoulder-length or longer hair or tied-back hair, no short hair",
+        "young adult Chinese female with healthy complexion, long hair, East Asian facial structure, elegant features, determined and focused demeanor, shoulder-length or longer hair or tied-back hair, no short hair",
+        "Chinese woman in her thirties with clear skin, East Asian features, well-groomed long hair, enthusiastic and driven expression, shoulder-length or longer hair or tied-back hair, no short hair",
+        "young professional Chinese woman with fresh appearance, long hair, East Asian facial features, bright complexion, ambitious and capable look, shoulder-length or longer hair or tied-back hair, no short hair",
+        "Chinese woman in her thirties with youthful features, long hair, East Asian features, energetic eyes, confident and motivated demeanor, shoulder-length or longer hair or tied-back hair, no short hair",
+        "young adult Chinese female with healthy glow, long hair, East Asian facial structure, elegant features, determined and focused bearing, shoulder-length or longer hair or tied-back hair, no short hair",
+        "professional Chinese woman in her thirties with clear skin, long hair, East Asian features, vibrant appearance, dynamic and engaged expression, shoulder-length or longer hair or tied-back hair, no short hair",
+        "young Chinese woman with fresh face, long hair, East Asian facial features, no visible aging, energetic and ambitious look, shoulder-length or longer hair or tied-back hair, no short hair",
+        "Chinese woman in her thirties with youthful vitality, long hair, East Asian features, bright eyes, confident and innovative demeanor, shoulder-length or longer hair or tied-back hair, no short hair"
+      ],
+      "clothing": [
+        "fully dressed in modern business casual vest over elegant blouse with dress pants or skirt, trendy yet professional layered outfit with proper coverage, complete attire, tote bag worn on shoulder",
+        "properly clothed in smart casual blazer over collared blouse with tailored trousers, contemporary and stylish layered outfit with appropriate coverage, complete attire",
+        "fully dressed in casual professional cardigan over quality top with chinos or skirt, relaxed yet put-together layered wear with proper coverage, complete clothing",
+        "properly dressed in contemporary business vest over fitted blouse with tailored pants or skirt, modern professional layered style with appropriate coverage, complete outfit",
+        "fully clothed in smart casual blazer over elegant top with dress pants or skirt, trendy young professional layered look with proper coverage, complete attire",
+        "properly dressed in modern casual light jacket over quality blouse with tailored trousers, stylish yet professional layered outfit with appropriate coverage, complete attire",
+        "fully dressed in tech casual elegant sweater over collared shirt with pants or skirt, contemporary startup layered style with proper coverage, complete clothing, backpack worn on shoulder",
+        "properly clothed in business casual vest over fitted elegant top with dress pants or skirt, sharp young professional layered attire with appropriate coverage, complete attire",
+        "fully dressed in casual smart blazer over elegant top with tailored trousers, modern professional layered style with proper coverage, complete outfit, with wireless earbuds case",
+        "properly dressed in contemporary casual elegant jacket over blouse with dress pants, trendy professional layered look with appropriate coverage, complete clothing, crossbody bag worn"
+      ],
+      "scene": [
+        "Xinjiang Kanas Lake, colorful, blue sky and white clouds, alpine lake and pine forest, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Sayram Lake grassland, colorful, blue sky and white clouds, wildflowers, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Tianshan snow-capped mountains, colorful, blue sky and white clouds, glacier valley, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Karakul Lake and Muztagh Ata, colorful, blue sky and white clouds, mirror reflection, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Taklamakan desert dunes, colorful, blue sky and white clouds, golden sand sea, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Altay autumn larch forest, colorful, blue sky and white clouds, mountain stream, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Yili river valley hills with poplar forest, colorful, blue sky and white clouds, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibet Namtso Lake, colorful, blue sky and white clouds, deep blue alpine lake and snow peaks, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibet Yamdrok Yumtso, colorful, blue sky and white clouds, turquoise lake and winding shoreline, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibetan plateau grassland with prayer flags and distant Himalayas, colorful, blue sky and white clouds, remote, scenic area photo, soft light, waist-up, single subject, correct proportions"
+      ]
+    },
+    "20": {
+      "character": [
+        "young Chinese woman with youthful face, long hair, East Asian facial features, smooth skin, bright and optimistic expression",
+        "college-age Chinese female with fresh appearance, long hair, East Asian features, energetic eyes, enthusiastic and curious look",
+        "young adult Chinese woman with delicate features, long hair, East Asian facial structure, healthy glow, confident and hopeful demeanor",
+        "Chinese woman in her twenties with smooth clear skin, long hair, East Asian features, no wrinkles, energetic and enthusiastic expression",
+        "young adult Chinese female with fresh face, long hair, East Asian facial features, bright eyes, optimistic and ambitious look",
+        "college-age Chinese woman with youthful features, long hair, East Asian features, healthy complexion, curious and engaged demeanor",
+        "young Chinese woman with delicate appearance, long hair, East Asian facial structure, clear skin, cheerful and confident bearing",
+        "Chinese woman in her twenties with smooth skin, long hair, East Asian features, vibrant look, determined and hopeful expression",
+        "young adult Chinese woman with fresh appearance, long hair, East Asian facial features, no aging signs, energetic and social demeanor",
+        "college-age Chinese female with youthful glow, long hair, East Asian features, bright smile, enthusiastic and friendly look"
+      ],
+      "clothing": [
+        "fully dressed in casual smart cardigan over blouse with jeans or skirt, youthful and comfortable layered outfit with proper coverage, complete attire, small backpack worn on shoulder",
+        "properly clothed in campus casual light jacket over blouse with casual pants, relaxed and age-appropriate layered wear with appropriate coverage, complete attire",
+        "fully dressed in modern casual cardigan over collared shirt with dress or trousers, neat and presentable layered attire with proper coverage, complete clothing",
+        "properly dressed in trendy casual light jacket over modest top with jeans or skirt, youthful urban layered style with appropriate coverage, complete outfit, modest, dignified, appropriate, non-revealing",
+        "fully clothed in casual college sweater over t-shirt with leggings or skirt, comfortable student layered wear with proper coverage, complete attire, water bottle in side pocket",
+        "properly dressed in modern casual jacket over blouse with dress or pants, stylish young adult layered look with appropriate coverage, complete outfit, tote bag worn on shoulder",
+        "fully dressed in campus style light cardigan over blouse with jeans or skirt, relaxed student layered attire with proper coverage, complete clothing",
+        "properly clothed in casual smart cardigan over collared shirt with dress or trousers, neat young adult layered style with appropriate coverage, complete attire",
+        "fully dressed in contemporary casual light jacket over top with pants or skirt, trendy youth fashion layered outfit with proper coverage, complete attire, crossbody bag worn",
+        "properly dressed in relaxed cardigan over elegant top with casual pants or skirt, presentable young adult layered wear with appropriate coverage, complete clothing"
+      ],
+      "scene": [
+        "Xinjiang Kanas Lake, colorful, blue sky and white clouds, alpine lake and pine forest, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Sayram Lake grassland, colorful, blue sky and white clouds, wildflowers, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Tianshan snow-capped mountains, colorful, blue sky and white clouds, glacier valley, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Karakul Lake and Muztagh Ata, colorful, blue sky and white clouds, mirror reflection, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Taklamakan desert dunes, colorful, blue sky and white clouds, golden sand sea, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Altay autumn larch forest, colorful, blue sky and white clouds, mountain stream, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Yili river valley hills with poplar forest, colorful, blue sky and white clouds, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibet Namtso Lake, colorful, blue sky and white clouds, deep blue alpine lake and snow peaks, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibet Yamdrok Yumtso, colorful, blue sky and white clouds, turquoise lake and winding shoreline, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibetan plateau grassland with prayer flags and distant Himalayas, colorful, blue sky and white clouds, remote, scenic area photo, soft light, waist-up, single subject, correct proportions"
+      ]
+    },
+    "10": {
+      "character": [
+        "young Chinese girl with innocent face, long hair, East Asian facial features, bright curious eyes, cheerful and energetic expression",
+        "elementary school Chinese child with round face, long hair, East Asian features, sweet smile, lively and happy demeanor",
+        "pre-teen Chinese girl with youthful features, long hair, East Asian facial structure, sparkling eyes, active and enthusiastic look",
+        "10-year-old Chinese girl with childish features, long hair, East Asian features, rosy cheeks, joyful and curious expression",
+        "elementary school Chinese girl with round innocent face, long hair, East Asian facial features, bright eyes, playful and energetic demeanor",
+        "young Chinese girl with delicate child features, long hair, East Asian features, cheerful smile, active and happy look",
+        "pre-teen Chinese child with youthful appearance, long hair, East Asian facial structure, sparkling eyes, enthusiastic and lively bearing",
+        "10-year-old Chinese girl with smooth child skin, long hair, East Asian features, innocent expression, curious and friendly demeanor",
+        "young Chinese schoolgirl with round face, long hair, East Asian facial features, bright smile, energetic and playful appearance",
+        "elementary age Chinese girl with childish features, long hair, East Asian features, happy eyes, active and cheerful look"
+      ],
+      "clothing": [
+        "fully dressed in casual children's wear with light vest over t-shirt and comfortable pants or skirt, playful and practical layered outfit with proper coverage, modest and age-appropriate",
+        "properly clothed in school uniform with light cardigan over blouse or neat casual layered outfit, age-appropriate and tidy with appropriate coverage, modest and dignified, small backpack worn",
+        "fully dressed in comfortable casual zip-up jacket over polo shirt with shorts or pants, active and modest layered attire with proper coverage, age-appropriate and dignified",
+        "properly dressed in kids' casual light cardigan over modest top with jeans or skirt, fun and age-appropriate layered outfit with appropriate coverage, modest, dignified, appropriate, non-revealing",
+        "fully clothed in elementary school uniform with light vest over polo shirt and skirt or shorts, neat student layered attire with proper coverage, modest and age-appropriate",
+        "properly dressed in comfortable children's wear with zip-up jacket over t-shirt and leggings or pants, active girl layered style with appropriate coverage, modest and dignified, water bottle in side pocket",
+        "fully dressed in casual kids' light hoodie over printed t-shirt with comfortable pants or skirt, playful child layered wear with proper coverage, modest, dignified, appropriate, non-revealing",
+        "properly clothed in comfortable children's sweater over collared shirt with pants or skirt, active girl layered clothing with proper coverage, modest and age-appropriate",
+        "fully dressed in neat casual light vest over blouse with skirt or pants, tidy child layered outfit with proper coverage, modest and dignified, small sling bag worn",
+        "properly dressed in comfortable kids' cardigan over t-shirt with jeans, practical child casual layered wear with appropriate coverage, modest, dignified, appropriate, non-revealing"
+      ],
+      "scene": [
+        "Xinjiang Kanas Lake, colorful, blue sky and white clouds, alpine lake and pine forest, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Sayram Lake grassland, colorful, blue sky and white clouds, wildflowers, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Tianshan snow-capped mountains, colorful, blue sky and white clouds, glacier valley, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Xinjiang Karakul Lake and Muztagh Ata, colorful, blue sky and white clouds, mirror reflection, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Taklamakan desert dunes, colorful, blue sky and white clouds, golden sand sea, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Altay autumn larch forest, colorful, blue sky and white clouds, mountain stream, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Yili river valley hills with poplar forest, colorful, blue sky and white clouds, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibet Namtso Lake, colorful, blue sky and white clouds, deep blue alpine lake and snow peaks, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibet Yamdrok Yumtso, colorful, blue sky and white clouds, turquoise lake and winding shoreline, remote, scenic area photo, soft light, waist-up, single subject, correct proportions",
+        "Tibetan plateau grassland with prayer flags and distant Himalayas, colorful, blue sky and white clouds, remote, scenic area photo, soft light, waist-up, single subject, correct proportions"
+      ]
+    }
+  }
+}

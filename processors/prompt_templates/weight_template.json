@@ -1,0 +1,165 @@
+{
+    "age": [10, 20, 30, 40, 50, 60, 70, 80],
+    
+    "_comments": {
+        "research_basis": "基于人脸老化研究的权重设置",
+        "age_phases": {
+            "10-30": "青春期到成年早期，面部结构变化快，权重衰减快",
+            "30-50": "成年期，面部结构稳定，权重衰减慢",
+            "50-60": "中老年过渡期，开始老化但结构稳定",
+            "60+": "老年期，骨骼结构固定，ID特征稳定，权重衰减很慢"
+        },
+        "key_insight": "年龄越大，骨骼结构越稳定，ID保真度应该越高"
+    },
+    
+    "slider_weight": {
+        "male": {
+            "base": 0.0,
+            "weight_step": 1.0,
+            "age_phase_multipliers": {
+                "description": "不同年龄段的权重调整系数",
+                "10-30": 1.2,
+                "30-50": 0.8,
+                "50-60": 1.0,
+                "60+": 0.9
+            }
+        },
+        "female": {
+            "base": 0.0,
+            "weight_step": 1.1,
+            "age_phase_multipliers": {
+                "10-30": 1.3,
+                "30-50": 0.85,
+                "50-60": 1.1,
+                "60+": 0.95
+            }
+        }
+    },
+    
+    "consistency_weight": {
+        "male": {
+            "pulid": {
+                "base_weight": 1.0,
+                "base_end_at": 0.50,
+                "age_specific_config": {
+                    "10-30": {
+                        "weight_step": 0.15,
+                        "end_at_step": 0.030,
+                        "min_weight": 0.60,
+                        "description": "青春期变化快，衰减快，下限较低"
+                    },
+                    "30-50": {
+                        "weight_step": 0.08,
+                        "end_at_step": 0.020,
+                        "min_weight": 0.70,
+                        "description": "成年期稳定，衰减慢，下限较高"
+                    },
+                    "50-60": {
+                        "weight_step": 0.10,
+                        "end_at_step": 0.022,
+                        "min_weight": 0.72,
+                        "description": "过渡期，衰减中等，下限高"
+                    },
+                    "60+": {
+                        "weight_step": 0.06,
+                        "end_at_step": 0.018,
+                        "min_weight": 0.75,
+                        "description": "老年期结构固定，衰减很慢，下限最高"
+                    }
+                }
+            },
+            "instantid": {
+                "base_weight": 1.0,
+                "base_end_at": 0.95,
+                "age_specific_config": {
+                    "10-30": {
+                        "weight_step": 0.18,
+                        "end_at_step": 0.028,
+                        "min_weight": 0.55,
+                        "description": "青春期空间变化大"
+                    },
+                    "30-50": {
+                        "weight_step": 0.10,
+                        "end_at_step": 0.020,
+                        "min_weight": 0.65,
+                        "description": "成年期空间稳定"
+                    },
+                    "50-60": {
+                        "weight_step": 0.12,
+                        "end_at_step": 0.022,
+                        "min_weight": 0.68,
+                        "description": "过渡期"
+                    },
+                    "60+": {
+                        "weight_step": 0.08,
+                        "end_at_step": 0.018,
+                        "min_weight": 0.70,
+                        "description": "老年期结构最稳定"
+                    }
+                }
+            }
+        },
+        "female": {
+            "pulid": {
+                "base_weight": 1.0,
+                "base_end_at": 0.50,
+                "age_specific_config": {
+                    "10-30": {
+                        "weight_step": 0.17,
+                        "end_at_step": 0.032,
+                        "min_weight": 0.58,
+                        "description": "女性青春期变化更快"
+                    },
+                    "30-50": {
+                        "weight_step": 0.09,
+                        "end_at_step": 0.022,
+                        "min_weight": 0.68,
+                        "description": "女性成年期稳定"
+                    },
+                    "50-60": {
+                        "weight_step": 0.12,
+                        "end_at_step": 0.025,
+                        "min_weight": 0.70,
+                        "description": "女性过渡期"
+                    },
+                    "60+": {
+                        "weight_step": 0.07,
+                        "end_at_step": 0.020,
+                        "min_weight": 0.73,
+                        "description": "女性老年期结构固定"
+                    }
+                }
+            },
+            "instantid": {
+                "base_weight": 1.0,
+                "base_end_at": 0.95,
+                "age_specific_config": {
+                    "10-30": {
+                        "weight_step": 0.20,
+                        "end_at_step": 0.030,
+                        "min_weight": 0.53,
+                        "description": "女性青春期空间变化更大"
+                    },
+                    "30-50": {
+                        "weight_step": 0.11,
+                        "end_at_step": 0.022,
+                        "min_weight": 0.63,
+                        "description": "女性成年期空间稳定"
+                    },
+                    "50-60": {
+                        "weight_step": 0.14,
+                        "end_at_step": 0.024,
+                        "min_weight": 0.66,
+                        "description": "女性过渡期"
+                    },
+                    "60+": {
+                        "weight_step": 0.09,
+                        "end_at_step": 0.020,
+                        "min_weight": 0.68,
+                        "description": "女性老年期结构稳定"
+                    }
+                }
+            }
+        }
+    }
+}

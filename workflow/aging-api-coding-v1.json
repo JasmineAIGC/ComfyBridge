@@ -1,0 +1,554 @@
+{
+  "206": {
+    "inputs": {
+      "ckpt_name": "Juggernaut/juggernautXL_v9Rdphoto2Lightning.safetensors"
+    },
+    "class_type": "CheckpointLoaderSimple",
+    "_meta": {
+      "title": "Load Checkpoint"
+    }
+  },
+  "223": {
+    "inputs": {
+      "share_norm": "layer",
+      "share_attn": "q+k",
+      "scale": 1,
+      "model": [
+        "206",
+        0
+      ]
+    },
+    "class_type": "StyleAlignedBatchAlign",
+    "_meta": {
+      "title": "StyleAligned Batch Align"
+    }
+  },
+  "290": {
+    "inputs": {
+      "image": "图片-1.png"
+    },
+    "class_type": "LoadImage",
+    "_meta": {
+      "title": "Load Image"
+    }
+  },
+  "360": {
+    "inputs": {
+      "lora_name": "custom/xl/真实亚洲人.safetensors",
+      "strength_model": 1,
+      "model": [
+        "1162",
+        0
+      ]
+    },
+    "class_type": "LoraLoaderModelOnly",
+    "_meta": {
+      "title": "LoraLoaderModelOnly"
+    }
+  },
+  "378": {
+    "inputs": {
+      "side_length": 1024,
+      "side": "Longest",
+      "upscale_method": "nearest-exact",
+      "crop": "disabled",
+      "image": [
+        "290",
+        0
+      ]
+    },
+    "class_type": "DF_Image_scale_to_side",
+    "_meta": {
+      "title": "Image scale to side"
+    }
+  },
+  "701": {
+    "inputs": {
+      "Number": "1"
+    },
+    "class_type": "Int",
+    "_meta": {
+      "title": "out_num"
+    }
+  },
+  "704": {
+    "inputs": {
+      "pulid_file": "ip-adapter_pulid_sdxl_fp16.safetensors"
+    },
+    "class_type": "PulidModelLoader",
+    "_meta": {
+      "title": "Load PuLID Model"
+    }
+  },
+  "705": {
+    "inputs": {},
+    "class_type": "PulidEvaClipLoader",
+    "_meta": {
+      "title": "Load Eva Clip (PuLID)"
+    }
+  },
+  "713": {
+    "inputs": {
+      "instantid_file": "ip-adapter.bin"
+    },
+    "class_type": "InstantIDModelLoader",
+    "_meta": {
+      "title": "Load InstantID Model"
+    }
+  },
+  "714": {
+    "inputs": {
+      "control_net_name": "instantid/diffusion_pytorch_model.safetensors"
+    },
+    "class_type": "ControlNetLoader",
+    "_meta": {
+      "title": "Load ControlNet Model"
+    }
+  },
+  "857": {
+    "inputs": {
+      "width": [
+        "1147",
+        0
+      ],
+      "height": [
+        "1148",
+        0
+      ],
+      "batch_size": [
+        "701",
+        0
+      ]
+    },
+    "class_type": "EmptyLatentImage",
+    "_meta": {
+      "title": "Empty Latent Image"
+    }
+  },
+  "1130": {
+    "inputs": {
+      "lora_name": "xl_sliders/age.pt",
+      "strength_model": [
+        "2474",
+        0
+      ],
+      "model": [
+        "360",
+        0
+      ]
+    },
+    "class_type": "LoraLoaderModelOnly",
+    "_meta": {
+      "title": "age-8"
+    }
+  },
+  "1147": {
+    "inputs": {
+      "Number": "720"
+    },
+    "class_type": "Int",
+    "_meta": {
+      "title": "width"
+    }
+  },
+  "1148": {
+    "inputs": {
+      "Number": "720"
+    },
+    "class_type": "Int",
+    "_meta": {
+      "title": "height"
+    }
+  },
+  "1161": {
+    "inputs": {
+      "lora_name": "custom/xl/xl_more_art-full_v1.safetensors",
+      "strength_model": 0.5,
+      "model": [
+        "223",
+        0
+      ]
+    },
+    "class_type": "LoraLoaderModelOnly",
+    "_meta": {
+      "title": "LoraLoaderModelOnly"
+    }
+  },
+  "1162": {
+    "inputs": {
+      "lora_name": "custom/xl/add-detail-xl.safetensors",
+      "strength_model": 1,
+      "model": [
+        "1161",
+        0
+      ]
+    },
+    "class_type": "LoraLoaderModelOnly",
+    "_meta": {
+      "title": "LoraLoaderModelOnly"
+    }
+  },
+  "1724": {
+    "inputs": {
+      "text": "male"
+    },
+    "class_type": "ttN text",
+    "_meta": {
+      "title": "gender"
+    }
+  },
+  "1727": {
+    "inputs": {
+      "Number": "4"
+    },
+    "class_type": "Int",
+    "_meta": {
+      "title": "age"
+    }
+  },
+  "2411": {
+    "inputs": {
+      "text_positive": [
+        "2466",
+        0
+      ],
+      "text_negative": [
+        "2427",
+        0
+      ],
+      "style": "sai-cinematic",
+      "log_prompt": true,
+      "style_positive": true,
+      "style_negative": true
+    },
+    "class_type": "SDXLPromptStyler",
+    "_meta": {
+      "title": "SDXL Prompt Styler"
+    }
+  },
+  "2412": {
+    "inputs": {
+      "text": [
+        "2411",
+        0
+      ],
+      "clip": [
+        "206",
+        1
+      ]
+    },
+    "class_type": "CLIPTextEncode",
+    "_meta": {
+      "title": "CLIP Text Encode (positive)"
+    }
+  },
+  "2414": {
+    "inputs": {
+      "text": [
+        "2411",
+        1
+      ],
+      "clip": [
+        "206",
+        1
+      ]
+    },
+    "class_type": "CLIPTextEncode",
+    "_meta": {
+      "title": "CLIP Text Encode (negative)"
+    }
+  },
+  "2416": {
+    "inputs": {
+      "provider": "CUDA"
+    },
+    "class_type": "InstantIDFaceAnalysis",
+    "_meta": {
+      "title": "InstantID Face Analysis"
+    }
+  },
+  "2418": {
+    "inputs": {
+      "method": "fidelity",
+      "weight": [
+        "2475",
+        0
+      ],
+      "start_at": 0,
+      "end_at": [
+        "2476",
+        0
+      ],
+      "model": [
+        "2432",
+        0
+      ],
+      "pulid": [
+        "704",
+        0
+      ],
+      "eva_clip": [
+        "705",
+        0
+      ],
+      "face_analysis": [
+        "2416",
+        0
+      ],
+      "image": [
+        "378",
+        0
+      ]
+    },
+    "class_type": "ApplyPulid",
+    "_meta": {
+      "title": "Apply PuLID"
+    }
+  },
+  "2419": {
+    "inputs": {
+      "seed": [
+        "2473",
+        0
+      ],
+      "steps": 4,
+      "cfg": 2,
+      "sampler_name": "dpmpp_sde",
+      "scheduler": "karras",
+      "denoise": 1,
+      "preview_method": "none",
+      "vae_decode": "true",
+      "model": [
+        "2418",
+        0
+      ],
+      "positive": [
+        "2412",
+        0
+      ],
+      "negative": [
+        "2414",
+        0
+      ],
+      "latent_image": [
+        "857",
+        0
+      ],
+      "optional_vae": [
+        "206",
+        2
+      ]
+    },
+    "class_type": "KSampler (Efficient)",
+    "_meta": {
+      "title": "KSampler (Efficient)"
+    }
+  },
+  "2420": {
+    "inputs": {
+      "provider": "CUDA"
+    },
+    "class_type": "InstantIDFaceAnalysis",
+    "_meta": {
+      "title": "InstantID Face Analysis"
+    }
+  },
+  "2422": {
+    "inputs": {
+      "weight": [
+        "2469",
+        0
+      ],
+      "start_at": 0,
+      "end_at": [
+        "2470",
+        0
+      ],
+      "instantid": [
+        "713",
+        0
+      ],
+      "insightface": [
+        "2420",
+        0
+      ],
+      "control_net": [
+        "714",
+        0
+      ],
+      "image": [
+        "378",
+        0
+      ],
+      "model": [
+        "2432",
+        0
+      ],
+      "positive": [
+        "2412",
+        0
+      ],
+      "negative": [
+        "2414",
+        0
+      ],
+      "image_kps": [
+        "2419",
+        5
+      ]
+    },
+    "class_type": "ApplyInstantID",
+    "_meta": {
+      "title": "Apply InstantID"
+    }
+  },
+  "2423": {
+    "inputs": {
+      "seed": [
+        "2472",
+        0
+      ],
+      "steps": 4,
+      "cfg": 2,
+      "sampler_name": "dpmpp_sde",
+      "scheduler": "karras",
+      "denoise": 0.3,
+      "preview_method": "none",
+      "vae_decode": "true",
+      "model": [
+        "2422",
+        0
+      ],
+      "positive": [
+        "2422",
+        1
+      ],
+      "negative": [
+        "2422",
+        2
+      ],
+      "latent_image": [
+        "2419",
+        3
+      ],
+      "optional_vae": [
+        "206",
+        2
+      ]
+    },
+    "class_type": "KSampler (Efficient)",
+    "_meta": {
+      "title": "KSampler (Efficient)"
+    }
+  },
+  "2427": {
+    "inputs": {
+      "text": "low quality, blurry, bad anatomy, deformed hands, extra fingers, extra limbs, asymmetrical face, unnatural expression, creepy, overexposed, underexposed, harsh shadows, grainy, text, watermark, logo, cluttered background, cartoonish, anime, 3D render, low-poly, pixelated, unrealistic, oversaturated, color bleeding, busy background, floating objects, distorted."
+    },
+    "class_type": "ttN text",
+    "_meta": {
+      "title": "negative prompt"
+    }
+  },
+  "2432": {
+    "inputs": {
+      "object_to_patch": "diffusion_model",
+      "residual_diff_threshold": 0.2,
+      "start": 0,
+      "end": 1,
+      "max_consecutive_cache_hits": -1,
+      "model": [
+        "1130",
+        0
+      ]
+    },
+    "class_type": "ApplyFBCacheOnModel",
+    "_meta": {
+      "title": "Apply First Block Cache"
+    }
+  },
+  "2466": {
+    "inputs": {
+      "text": "A 50-year-old man with a mature square face, healthy wheat-colored skin, broad forehead covered with traces of time, and silver-mixed short hair. His deep gaze contains wisdom, steady thick eyebrows, straight nose bridge, and composed smile reveals experience."
+    },
+    "class_type": "ttN text",
+    "_meta": {
+      "title": "positive prompt"
+    }
+  },
+  "2469": {
+    "inputs": {
+      "value": 1
+    },
+    "class_type": "FloatConstant",
+    "_meta": {
+      "title": "instantid weight"
+    }
+  },
+  "2470": {
+    "inputs": {
+      "value": 1
+    },
+    "class_type": "FloatConstant",
+    "_meta": {
+      "title": "instantid end_at"
+    }
+  },
+  "2472": {
+    "inputs": {
+      "seed": 752127056099350
+    },
+    "class_type": "easy seed",
+    "_meta": {
+      "title": "EasySeed"
+    }
+  },
+  "2473": {
+    "inputs": {
+      "seed": 286542589644309
+    },
+    "class_type": "easy seed",
+    "_meta": {
+      "title": "EasySeed"
+    }
+  },
+  "2474": {
+    "inputs": {
+      "value": 1
+    },
+    "class_type": "FloatConstant",
+    "_meta": {
+      "title": "slider weight"
+    }
+  },
+  "2475": {
+    "inputs": {
+      "value": 1
+    },
+    "class_type": "FloatConstant",
+    "_meta": {
+      "title": "pulid weight"
+    }
+  },
+  "2476": {
+    "inputs": {
+      "value": 0.5
+    },
+    "class_type": "FloatConstant",
+    "_meta": {
+      "title": "pulid end_at"
+    }
+  },
+  "2477": {
+    "inputs": {
+      "images": [
+        "2423",
+        5
+      ]
+    },
+    "class_type": "PreviewImage",
+    "_meta": {
+      "title": "Preview Image"
+    }
+  }
+}
