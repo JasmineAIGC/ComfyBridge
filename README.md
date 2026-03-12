@@ -143,14 +143,6 @@ ComfyBridge/
 - [框架架构](docs/framework_architecture.md) - 系统架构设计说明
 - [错误码文档](docs/ERROR_CODES_FINAL.md) - 完整错误码列表
 
-## 技术栈
-
-- **Web 框架**: FastAPI + Uvicorn
-- **图像处理**: Pillow, OpenCV, NumPy
-- **AI/ML 模型**: InsightFace, ONNX Runtime, glasses-detector
-- **工具库**: Pydantic, Loguru, psutil, GPUtil
-- **HTTP 客户端**: requests, websockets
-
 ## 配置说明
 
 主要配置项在 [config.py](config.py) 中：
